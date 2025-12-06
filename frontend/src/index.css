@@ -1,0 +1,18 @@
+
+body, #root {
+  min-height: 100vh;          
+  margin: 0;                  
+  font-family: sans-serif;   
+  background: linear-gradient(
+    to bottom right,
+    #7c3aed,   
+    #ec4899,   
+    #f87171   
+  );
+}
+
+main {
+  max-width: 960px;          
+  margin: 0 auto;           
+  padding: 2rem;              
+}
